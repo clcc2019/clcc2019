@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm clcc2019</h1>
+- 🔭 I’m currently working on **Narwal**
+
+- 🌱 I’m currently learning **make money**
+  
+<p align="left">
+</p>
+
 
 <!--
 **clcc2019/clcc2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
