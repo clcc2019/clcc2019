@@ -66,14 +66,6 @@ motto: "More Code, Less Hair! ⚡"
 
 ---
 
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/clcc2019/clcc2019/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 <div align="center">
 
 ### 💭 Random Dev Quote
