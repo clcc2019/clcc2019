@@ -46,12 +46,22 @@ motto: "More Code, Less Hair! ⚡"
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clcc2019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clcc2019&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clcc2019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clcc2019&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clcc2019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=clcc2019&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=clcc2019&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=clcc2019&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clcc2019&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=clcc2019&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
